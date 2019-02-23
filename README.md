@@ -1,2 +1,0 @@
-# olatundeh
-My Ionic Apps
